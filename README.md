@@ -32,4 +32,4 @@ name1@excample.com;My Name is Joe
 name2@example.com
 ```
 
-The script will create a file named `<old-file-name-without-extension>-valid.<extension>`. So, if the CSV you entered is `emails.txt`, it will store valid emails in `emails-valid.txt`
+The script will create a file named `<old-file-name-without-extension>-valid.<extension>`. So, if the CSV you entered is `emails.txt`, it will store valid emails in `emails-valid.txt`.
